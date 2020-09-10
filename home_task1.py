@@ -9,10 +9,10 @@ while True:
     elif a * b == c:
         print("Ничего себе! Если " + str(a) +" умножить на " + str(b) +" получится "+ str(c) + "!")
 
-    elif a / b ==c:
+    elif a / b == c:
         print("Ничего себе! Если " + str(a) +" : " + str(b) +" = "+ str(c) + "!")
         
-    elif a // b ==c:
+    elif a // b == c:
         print("Ничего себе! Если " + str(a) +" поделить на " + str(b) +" в остатке получится "+ str(c) + "!")
 
     else:
